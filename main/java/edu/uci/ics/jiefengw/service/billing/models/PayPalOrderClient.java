@@ -17,8 +17,8 @@ public class PayPalOrderClient {
     /*
     //intialize sandbox stuff
     private static final String clientId = "\n" +
-            "AfxDykOhurdacBDRa45w1cTdqEiGg_zrL31XZQr2p7JtEoUs3Eib7shOquUHX5RyykzsWiV7ybTcM5Ve\n";
-    private static final String clientSecret = "EEit0ztoTR2Qre8alS9xf9UZhhKjTTY6-IsxwJxeN7YU7SP5nTPbY3c2m_Cx9aHxwUTX5Cya7k_bEFh4";
+            "*";
+    private static final String clientSecret = "*";
 
     //setup paypal envrionment
     public static PayPalEnvironment environment = new PayPalEnvironment.Sandbox(clientId, clientSecret);
@@ -26,8 +26,8 @@ public class PayPalOrderClient {
     private static PayPalHttpClient client = new PayPalHttpClient(environment);
 
      */
-    private static String clientId = "AfxDykOhurdacBDRa45w1cTdqEiGg_zrL31XZQr2p7JtEoUs3Eib7shOquUHX5RyykzsWiV7ybTcM5Ve";
-    private static String clientSecret = "EEit0ztoTR2Qre8alS9xf9UZhhKjTTY6-IsxwJxeN7YU7SP5nTPbY3c2m_Cx9aHxwUTX5Cya7k_bEFh4";
+    private static String clientId = "*";
+    private static String clientSecret = "*";
 
     //setup paypal envrionment
     public static PayPalEnvironment environment = new PayPalEnvironment.Sandbox(clientId, clientSecret);
